@@ -17,6 +17,7 @@
 		4242E6132CAB595A00A48477 /* ParrilloColeccionDeJuegosTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4242E6122CAB595A00A48477 /* ParrilloColeccionDeJuegosTests.swift */; };
 		4242E61D2CAB595A00A48477 /* ParrilloColeccionDeJuegosUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4242E61C2CAB595A00A48477 /* ParrilloColeccionDeJuegosUITests.swift */; };
 		4242E61F2CAB595A00A48477 /* ParrilloColeccionDeJuegosUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4242E61E2CAB595A00A48477 /* ParrilloColeccionDeJuegosUITestsLaunchTests.swift */; };
+		4242E62C2CAB630D00A48477 /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4242E62B2CAB630D00A48477 /* JuegosViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		4242E6182CAB595A00A48477 /* ParrilloColeccionDeJuegosUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ParrilloColeccionDeJuegosUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		4242E61C2CAB595A00A48477 /* ParrilloColeccionDeJuegosUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParrilloColeccionDeJuegosUITests.swift; sourceTree = "<group>"; };
 		4242E61E2CAB595A00A48477 /* ParrilloColeccionDeJuegosUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParrilloColeccionDeJuegosUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		4242E62B2CAB630D00A48477 /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				4242E5FA2CAB595900A48477 /* SceneDelegate.swift */,
 				4242E5FC2CAB595900A48477 /* ViewController.swift */,
 				4242E5FE2CAB595900A48477 /* Main.storyboard */,
+				4242E62B2CAB630D00A48477 /* JuegosViewController.swift */,
 				4242E6042CAB595A00A48477 /* Assets.xcassets */,
 				4242E6062CAB595A00A48477 /* LaunchScreen.storyboard */,
 				4242E6092CAB595A00A48477 /* Info.plist */,
@@ -261,6 +264,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4242E62C2CAB630D00A48477 /* JuegosViewController.swift in Sources */,
 				4242E6032CAB595900A48477 /* ParrilloColeccionDeJuegos.xcdatamodeld in Sources */,
 				4242E5FD2CAB595900A48477 /* ViewController.swift in Sources */,
 				4242E5F92CAB595900A48477 /* AppDelegate.swift in Sources */,
